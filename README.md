@@ -36,9 +36,9 @@ This is in development. Could be buggy. If you get any kind of error please repo
 #### SourceForge:
 <a href="https://sourceforge.net/projects/instagram-dl/"><img alt="SourceForge" src="https://img.shields.io/sourceforge/dt/instagram-dl?color=blue&label=SourceForge&logo=sourceforge"></a>
 
-</details>  
-<details>
+</details>
 
+#### Telegram Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Follow on:
