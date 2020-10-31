@@ -5,9 +5,9 @@ This is Instagram Downloader Tool coded in Python3. Helps to download Instgram P
 ![Screenshot](src/screenshot.png)
 
 ## Thanks to:
-- [AmshenShanu07](https://github.com/AmshenShanu07)
-- [Palahsu](https://github.com/palahsu)
-- [AbirHasan2005](https://github.com/AbirHasan2005)
+- [Palahsu](https://github.com/palahsu)(Designer of the GUI)
+- [AbirHasan2005](https://github.com/AbirHasan2005)(BackEnd Developer )
+- [AmshenShanu07](https://github.com/AmshenShanu07)(FrontEnd Developer)
 
 ## Made For:
 - Linux
