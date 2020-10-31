@@ -1,4 +1,4 @@
-# Insta-DL
+# Instagram-DL
 This is Instagram Downloader Tool coded in Python3. Helps to download Instgram Pictures & Videos by Post Link.
 
 ### Preview:
