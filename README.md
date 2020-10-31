@@ -31,7 +31,7 @@ python instagram-dl.py
 <details>
   <summary>Important</summary>
 
-This is in development. Could be buggy. If you get any kind of error please report in repo issues. Also you can report on my [Telegram Group](http://t.me/linux_repo). Also this is available on [SourceForge](https://sourceforge.net/projects/instagram-dl/) as EXE File for Windows.
+This is in development. Could be buggy. If you get any kind of error please report in [issues](https://github.com/AbirHasan2005/instagram-dl/issues). Also you can report on my [Telegram Group](http://t.me/linux_repo). Also this is available on [SourceForge](https://sourceforge.net/projects/instagram-dl/) as EXE File for Windows.
 
 #### SourceForge:
 <a href="https://sourceforge.net/projects/instagram-dl/"><img alt="SourceForge" src="https://img.shields.io/sourceforge/dt/instagram-dl?color=blue&label=SourceForge&logo=sourceforge"></a>
