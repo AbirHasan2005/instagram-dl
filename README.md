@@ -28,9 +28,14 @@ python -m install -r requirements.txt
 python instagram-dl.py
 ```
 
+### Releases:
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/AbirHasan2005/instagram-dl?logo=github)](https://github.com/AbirHasan2005/instagram-dl/releases)
+
 <details>
   <summary>Important</summary>
-
+  
+#### ![GitHub top language](https://img.shields.io/github/languages/top/AbirHasan2005/instagram-dl?logo=python)
+  
 This is in development. Could be buggy. If you get any kind of error please report in [issues](https://github.com/AbirHasan2005/instagram-dl/issues). Also you can report on my [Telegram Group](http://t.me/linux_repo). Also this is available on [SourceForge](https://sourceforge.net/projects/instagram-dl/) as EXE File for Windows.
 
 #### SourceForge:
